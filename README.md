@@ -1,10 +1,17 @@
 # NIST Cloud Computing Forensic Reference Architecture 
 
-With the rapid adoption of cloud computing technology, there is a need to apply digital forensics to this domain. New methodologies are required for the identification, acquisition, preservation, examination, and interpretation of digital evidence in multi-tenant cloud environments that offer rapid provisioning, global elasticity, and broad network accessibility. This is necessary to provide capabilities for incident response and secure internal enterprise operations and to support the U.S. criminal justice and civil litigation systems. 
-This document presents the NIST Cloud Computing Forensic Reference Architecture (CC FRA also referred to as FRA for the sake of brevity), whose goal is to provide support for a cloud system’s forensic readiness. The CC FRA is meant to help the user understand which cloud forensic challenges might exist for an organization’s cloud system. It identifies which forensic challenges require mitigation strategies and how a forensic investigator would apply that to a particular forensic investigation. 
+With the rapid adoption of cloud computing technology, there is a need to apply digital forensics to this domain. 
+New methodologies are required for the identification, acquisition, preservation, examination, and interpretation of digital evidence in multi-tenant cloud environments that offer rapid provisioning, global elasticity, and broad network accessibility. This is necessary to provide capabilities for incident response and secure internal enterprise operations and to support the U.S. criminal justice and civil litigation systems. 
+
+This repository contains information associated with the NIST Cloud Computing Forensic Reference Architecture (CC FRA or symply FRA), whose goal is to provide support for a cloud system’s forensic readiness. 
+
+The CC FRA is meant to help the user understand which cloud forensic challenges might exist for an organization’s cloud system. The FRA uses a set of  identified forensic challenges to identify which cloud computing capabilities or components require mitigation strategies and how a forensic investigator would apply that to a particular forensic investigation. 
+
 The CC FRA provides a useful starting point for all cloud forensic stakeholders to analyze the impacts of cloud forensic challenges previously reported by NIST. It does so by considering each cloud forensic challenge in the context of each functional capability presented in the Cloud Security Alliance’s Enterprise Architecture.
 
-While the CC FRA can be used by any cloud computing practitioner, it is specifically designed to allow Cloud System Architects, Cloud Engineers, Forensic Practitioners and Cloud Consumers to ask specific questions relative to their cloud computing architectures. The CC FRA is both a methodology and an initial implementation. We encourage users to customize our initial implementation for their specific situations and needs. 
+While the CC FRA can be used by any cloud computing practitioner, it is specifically designed to allow Cloud System Architects, Cloud Engineers, Forensic Practitioners and Cloud Consumers to ask specific questions relative to their cloud computing architectures. 
+
+The CC FRA is both a methodology and an initial set of data which is the result of applying the methodology to the cloud capabilities and components adopted from the CSA's Enterprise Architecture in conjunction with the cloud forensic challenges identified in NIST IR 8006. We encourage the users of the FRA to preserve the methodology but feel free to customize the initial data to their specific situation and needs. 
 
 ## TBD NOTES:
 
