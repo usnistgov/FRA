@@ -1,25 +1,12 @@
-# NIST Open-Source Software Repository Template
+# NIST Cloud Computing Forensic Reference Architecture 
 
-Use of GitHub by NIST employees for government work is subject to
-the [Rules of Behavior for GitHub][gh-rob]. This is the
-recommended template for NIST employees, since it contains
-required files with approved text. For details, please consult
-the Office of Data & Informatics' [Quickstart Guide to GitHub at
-NIST][gh-odi].
+With the rapid adoption of cloud computing technology, there is a need to apply digital forensics to this domain. New methodologies are required for the identification, acquisition, preservation, examination, and interpretation of digital evidence in multi-tenant cloud environments that offer rapid provisioning, global elasticity, and broad network accessibility. This is necessary to provide capabilities for incident response and secure internal enterprise operations and to support the U.S. criminal justice and civil litigation systems. 
+This document presents the NIST Cloud Computing Forensic Reference Architecture (CC FRA also referred to as FRA for the sake of brevity), whose goal is to provide support for a cloud system’s forensic readiness. The CC FRA is meant to help the user understand which cloud forensic challenges might exist for an organization’s cloud system. It identifies which forensic challenges require mitigation strategies and how a forensic investigator would apply that to a particular forensic investigation. 
+The CC FRA provides a useful starting point for all cloud forensic stakeholders to analyze the impacts of cloud forensic challenges previously reported by NIST. It does so by considering each cloud forensic challenge in the context of each functional capability presented in the Cloud Security Alliance’s Enterprise Architecture.
 
-Please click on the green **Use this template** button above to
-create a new repository under the [usnistgov][gh-nst]
-organization for your own open-source work. Please do not "fork"
-the repository directly, and do not create the templated
-repository under your individual account.
+While the CC FRA can be used by any cloud computing practitioner, it is specifically designed to allow Cloud System Architects, Cloud Engineers, Forensic Practitioners and Cloud Consumers to ask specific questions relative to their cloud computing architectures. The CC FRA is both a methodology and an initial implementation. We encourage users to customize our initial implementation for their specific situations and needs. 
 
-The key files contained in this repository -- which will also
-appear in templated copies -- are listed below, with some things
-to know about each.
-
----
-
-## README
+## TBD NOTES:
 
 Each repository will contain a plain-text [README file][wk-rdm],
 preferably formatted using [GitHub-flavored Markdown][gh-mdn] and
@@ -119,16 +106,7 @@ themes are:
 - [Standards](https://www.nist.gov/standards)
 - [Transportation](https://www.nist.gov/transportation)
 
----
 
-[usnistgov/opensource-repo][gh-osr] is developed and maintained
-by the [opensource-team][gh-ost], principally:
-
-- Gretchen Greene, @GRG2
-- Yannick Congo, @faical-yannick-congo
-- Trevor Keller, @tkphd
-
-Please reach out with questions and comments.
 
 <!-- References -->
 
