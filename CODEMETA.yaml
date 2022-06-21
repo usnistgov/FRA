@@ -37,8 +37,8 @@ categories:
   # - visualization
 
 themes:
-  - Information Technology
-    - Data and informatics
+  # - Information Technology
+  # - Data and informatics
   # - Advanced communications
   #     - Optical communications
   #     - Quantum communications
@@ -111,7 +111,7 @@ themes:
   #     - Structural fire resistance
   #     - Wildland-Urban interface fire
   #
-  # - Forensic Science
+   - Forensic Science
   #     - Ballistics
   #     - Digital evidence
   #     - DNA and biological evidence
@@ -128,20 +128,20 @@ themes:
   #     - Precision medicine
   #     - Regenerative medicine
   #
-  # - Information Technology
+    - Information Technology
   #     - Artificial intelligence
   #     - Biometrics
-  #     - Cloud computing and virtualization
+        - Cloud computing and virtualization
   #     - Complex systems
   #     - Computational science
   #     - Conformance testing
   #     - Cyber-physical systems
   #         - Smart cities
-  #     - Cybersecurity
+        - Cybersecurity
   #         - Configuration and vulnerability management
   #         - Cryptography
   #         - Cybersecurity Education and Workforce Development
-  #         - Risk management
+            - Risk management
   #     - Data and informatics
   #         - Human language technology
   #         - Information retrieval
