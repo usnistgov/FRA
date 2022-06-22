@@ -10,7 +10,7 @@ The workbook contains 10 tabs, as follows:
 
 2.     **Challenges Data** – describes the 62 cloud forensic challenges used in the CC FRA Mapping Table. These challenges are discussed in detail in the following publication: Herman M, Iorga M, Salim AS, Jackson R, Hurst M, Leo R, Lee R, Landreville N, Mishra AK, Wang Y, Sardinas R (2020). NIST Cloud Computing Forensic Science Challenges. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Interagency or Internal Report (IR) 8006. The report is availabel here: [https://doi.org/10.6028/NIST.IR.8006](https://doi.org/10.6028/NIST.IR.8006).
 
-3.     **Flow Chart** – shows the flow chart that was followed to achieve the mapping displayed in the CC FRA Mapping Table.  The answers to the questions in this flow chart provides the desired mapping.  This flow chart provides users with a uniform method for determining the applicability of a challenge to a particular capability.   
+3.     **Flow Chart** – shows the flow chart that was followed to achieve the mapping displayed in the CC FRA Mapping Table.  The answers to the questions in this flow chart guide the user through a consistent and repeatable logical flow towards the final mapping ansswer, ensuring a uniform method for determining the applicability of a challenge to a particular capability.   
 
 4.     **BOSS** -- Business Operation Support Services – one of the domains covered by the Cloud Security Alliance’s Enterprise Architecture. These domains contain functional capabilities used in the CC FRA Mapping Table.
 
